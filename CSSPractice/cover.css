@@ -1,0 +1,24 @@
+.cover {
+  background-color: grey;
+  margin: 25px;
+  padding-top: 50px;
+  float:inline-end;
+  text-align: center;
+}
+#title {
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#subtitle {
+  text-align: center;
+  color: aqua;
+  opacity: 0.6;
+}
+
+#cover_image {
+  width: 750px;
+  height: 500px;
+  text-align: center;
+}
